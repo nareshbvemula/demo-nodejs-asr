@@ -26,7 +26,9 @@ $ node client.js
 1. Server will start listerning to the clients on port 8080
 2. When you start the client, it will connect to the server and send's a test message to the server.
 3. On Server: 
-    1). When it receives a "Test Message", it will convert the test to Speech by connecting to Google API's and write an audio file to         the local system.
-    2) Then again this Sppech or Voice is Converted to Text by connecting to Google API's, and then the translated text is send to            client
+
+    ## 1). When it receives a "Test Message", it will convert the test to Speech by connecting to Google API's and write an audio file              to the local system.
+    
+    ## 2) Then again this Sppech or Voice is Converted to Text by connecting to Google API's, and then the translated text is send to             client
 
 
