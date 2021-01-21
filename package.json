@@ -13,7 +13,7 @@
     "@google-cloud/speech": "^3.6.0",
     "@google-cloud/text-to-speech": "^2.3.0",
     "promise": "^8.1.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "ws": "^7.2.3"
   }
 }
